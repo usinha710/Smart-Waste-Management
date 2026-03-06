@@ -7,25 +7,23 @@ The goal of this project is to make waste management more organized, transparent
 🚀 Features
 👤 User Features
 
-User registration and login
+1.User registration and login
 
-Submit waste complaints
+2.Submit waste complaints
 
-View previous complaints
+3.Waste detection / prediction module
 
-Waste detection / prediction module
-
-Contact and information pages
+4.Contact and information pages
 
 🛠️ Admin Features
 
-Secure admin login
+1.Secure admin login
 
-Admin dashboard to monitor complaints
+2.Admin dashboard to monitor complaints
 
-View and manage waste reports submitted by users
+3.View and manage waste reports submitted by users
 
-Track complaint history
+4.Track complaint history
 
 🧰 Tech Stack
 Frontend
